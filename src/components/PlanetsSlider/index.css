@@ -1,0 +1,11 @@
+.planets-container {
+  display: flex;
+  flex-direction: column;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  color: white;
+  width: 80%;
+}
+.main-heading {
+  text-align: center;
+  color: #05acff;
+}

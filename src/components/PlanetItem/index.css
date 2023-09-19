@@ -1,0 +1,16 @@
+.planet-image {
+  width: 20%;
+  height: 20%;
+}
+.each-planet-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.planet-name {
+  font-size: 20px;
+}
+.planet-description {
+  width: 80%;
+}
